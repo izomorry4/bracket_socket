@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "2714ca4b69936af81806e08668fdc6f2",
+    "packages": [
+        {
+            "name": "izomorry4/bracket_checker",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/izomorry4/bracket_checker.git",
+                "reference": "f9cd494c29cae2b6b159a56548c85ae94883e834"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/izomorry4/bracket_checker/zipball/f9cd494c29cae2b6b159a56548c85ae94883e834",
+                "reference": "f9cd494c29cae2b6b159a56548c85ae94883e834",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Izomorry4\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "izomorry4",
+                    "email": "izomorry4@yandex.ru"
+                }
+            ],
+            "description": "First task in Otus",
+            "time": "2018-01-22T21:35:44+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "izomorry4/bracket_checker": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
